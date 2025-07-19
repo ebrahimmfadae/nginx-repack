@@ -12,8 +12,10 @@
       "ffunction",
       "flto",
       "funroll",
+      "imagetools",
       "LDFLAGS",
       "mtune",
+      "Noelware",
       "Ofast",
       "pcre"
    ]
